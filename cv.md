@@ -40,15 +40,20 @@ Complete the function that takes a non-negative integer n as input, and returns 
 
 ## Experience  
 - *to be obtained*  
-***
+
+***  
+
 ## Education  
 - ***BA Kyiv National Linguistic University 2010-2014***  
     - *English Philology*  
 - ***MA National Aviation University 2016-2017***  
     - *Translation*  
+
 ***  
+
 ## Languages  
 - **Ukrainian** - *native*  
 - **Russian** - *native*  
 - **English** - *advanced*  
+
 ***
