@@ -15,4 +15,12 @@ I am passionate about web development. I want to learn new technologies and to f
 
 **Phone:** *+380670082485*
 
+***  
+
+## Skills  
+- **HTML**  
+- **CSS**  
+- **Javasript**  
+- **Git**
+
 ***
