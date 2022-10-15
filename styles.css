@@ -210,3 +210,78 @@
     text-decoration: none;
     color: #000;
   }
+
+  /*Mobile*/
+
+@media only screen and (max-width: 320px) {
+    body {
+      max-width: 320px;
+    }
+  }
+  
+  @media only screen and (max-width: 640px) {
+    body {
+      max-width: 640px;
+      width: 100%;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+    }
+    p {
+      font-size: 1rem;
+    }
+    .header-menu {
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      font-size: 1rem;
+      padding: 5px;
+    }
+    #my_info {
+      flex-direction: column;
+    }
+    .my_photo {
+      max-width: 200px;
+    }
+  
+    .contacts-items {
+      flex-wrap: wrap;
+      padding: 10px;
+    }
+    .contacts-item {
+      font-size: 1rem;
+      letter-spacing: 1px;
+    }
+    .skills-item__image {
+      width: 150px;
+      height: 150px;
+      padding: 20px;
+    }
+    .skills-item__container {
+      width: 150px;
+      height: 150px;
+    }
+    pre {
+      background-color: #131414;
+      padding: 0;
+    }
+    #projects,
+    #education,
+    #languages {
+      padding: 10px 0;
+      font-size: 1rem;
+    }
+    .languages-items {
+      flex-direction: column;
+      text-align: center;
+      padding: 25px 0;
+    }
+    .footer-menu {
+      width: 100%;
+      flex-wrap: wrap;
+    }
+  }
+  
